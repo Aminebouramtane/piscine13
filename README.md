@@ -10,15 +10,15 @@ The 1337 Piscine is an intensive programming bootcamp offered by 42, a private, 
 - **Peer Review**: Collaboration and peer review are essential aspects of the Piscine. Participants work together, share knowledge, and provide feedback on each other's work.
 - **Evaluation**: Participants are evaluated based on the quality and completion of their projects, as well as their participation and engagement throughout the Piscine.
 
-## Requirements
+## Requirements :
 - No prior programming experience is required to participate in the Piscine. However, a strong motivation to learn, problem-solving skills, and perseverance are essential.
 - Participants must be prepared to commit full-time to the Piscine for its entire duration.
 
-## Support
+## Support :
 - **Mentors**: 42 provides mentors who are experienced students or alumni to support and guide participants throughout the Piscine.
 - **Resources**: Participants have access to online resources, documentation, and forums to help them navigate and succeed in the Piscine.
 
-## Benefits
+## Benefits :
 - **Skill Development**: The Piscine offers a rapid and intensive learning experience, allowing participants to acquire essential programming skills and knowledge.
 - **Community**: Participants become part of the 42 community, connecting with peers, mentors, and alumni who share their passion for programming.
 - **Opportunities**: Successful completion of the Piscine can lead to admission to 42's full-time program and open doors to career opportunities in the tech industry.
