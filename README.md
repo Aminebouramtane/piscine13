@@ -1,9 +1,9 @@
 # 1337 Piscine
 
-## Description
+## Description :
 The 1337 Piscine is an intensive programming bootcamp offered by 42, a private, nonprofit and tuition-free computer programming school. The Piscine (French for "swimming pool") serves as an immersive introduction to programming and the 42 curriculum. It is designed to assess and develop the coding skills, problem-solving abilities, and collaborative spirit of participants.
 
-## Program Structure
+## Program Structure :
 - **Duration**: The Piscine typically lasts for about four weeks, during which participants engage in full-time, hands-on learning.
 - **Content**: Participants are exposed to various programming languages (C, shell scripting, and others), data structures, algorithms, and software development tools.
 - **Projects**: The Piscine includes a series of projects that participants must complete individually or in groups. These projects range from simple exercises to more complex challenges, allowing participants to apply and reinforce their learning.
